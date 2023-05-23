@@ -1,4 +1,4 @@
-package jmcalculator_test
+package calculator
 
 import (
   "testing"
