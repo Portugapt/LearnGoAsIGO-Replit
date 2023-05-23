@@ -1,6 +1,8 @@
-package jmcalculator
+package jmcalculator_test
 
-import "testing"
+import (
+  "testing"
+)
 
 func TestAdd(t *testing.T) {
 	result := Add(2, 3)
